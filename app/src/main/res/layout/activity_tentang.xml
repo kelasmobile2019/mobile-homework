@@ -75,7 +75,7 @@
 
     <ScrollView
         android:layout_width="400dp"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_default="percent"
@@ -91,7 +91,6 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="20dp"
             android:layout_marginRight="30dp"
@@ -118,7 +117,7 @@
                     android:textSize="15sp" />
 
                 <View
-                    android:layout_width="match_parent"
+                    android:layout_width="330dp"
                     android:layout_height="1dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/grey" />
@@ -146,7 +145,7 @@
                     android:textSize="15sp" />
 
                 <View
-                    android:layout_width="match_parent"
+                    android:layout_width="330dp"
                     android:layout_height="1dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/grey" />
@@ -174,7 +173,7 @@
                     android:textSize="15sp" />
 
                 <View
-                    android:layout_width="match_parent"
+                    android:layout_width="330dp"
                     android:layout_height="1dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/grey" />
@@ -202,7 +201,7 @@
                     android:textSize="15sp" />
 
                 <View
-                    android:layout_width="match_parent"
+                    android:layout_width="330dp"
                     android:layout_height="1dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/grey" />
@@ -227,12 +226,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-light"
-                    android:text="Github........"
+                    android:text="https://github.com/kelasmobile2019/mobile-homework/tree/kelompok-6"
                     android:textColor="#000000"
                     android:textSize="15sp" />
 
                 <View
-                    android:layout_width="match_parent"
+                    android:layout_width="330dp"
                     android:layout_height="1dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/grey" />

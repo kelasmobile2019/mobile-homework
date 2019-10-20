@@ -37,16 +37,17 @@
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="@id/view_kotak"
         app:layout_constraintTop_toBottomOf="@+id/view_kotak"
-        app:layout_constraintVertical_bias="0.05"
+        app:layout_constraintVertical_bias="0.2"
         app:layout_constraintWidth_default="percent"
         app:layout_constraintWidth_percent="0.5" />
 
     <TextView
         android:id="@+id/pertanyaan"
         android:layout_width="230dp"
-        android:layout_height="170dp"
+        android:layout_height="185dp"
         android:text="iki gae pertanyaan"
         android:textSize="16sp"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_default="percent"

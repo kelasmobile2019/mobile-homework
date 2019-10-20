@@ -19,4 +19,6 @@
     <color name="grad2Start">#383636</color>
     <color name="followersBg2">#858281</color>
     <color name="followingBg2">#858281</color>
+
+    <color name="black">#000000</color>
 </resources>
