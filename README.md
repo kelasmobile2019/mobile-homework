@@ -1,5 +1,9 @@
 # Tugas UTS Aplikasi Mobile
-Diatas merupakan Tugas dari Kelompok 2 yakni Ngamping. Yang membantu pengguna untuk mendapatkan Informasi Ground Camping.
+Diatas merupakan Tugas dari Kelompok 2 bernama Ngamping. 
+
+# Sekilas Informasi Tentang Ngamping
+Ngamping merupakan sebuah aplikasi yang bertujuan untuk memberikan informasi tentang ground camping. Informasi yang diberikan berupa lokasi, harga tiket dan deskripsi singkat.
+
 
 # User Manual/Panduan Pengguna
 1. Install terlebih dahulu aplikasi dengan nama Ngamping_ver1.apk
