@@ -1,9 +1,9 @@
 # mobile-homework
 Berikut adalah kompilasi dari tugas tugas yang telah dikerjakan oleh Mahasiswa Kelas Mobile 2019
 <br>
-Kelompok 1.
--Vinza Hedi Satria (1634010072)
--Moch. Fikri Hidayat (1634010060)
+<p>Kelompok 1.</p>
+- Vinza Hedi Satria (1634010072)
+- Moch. Fikri Hidayat (1634010060)
 <br>
 Kelompok 2.
 -Mohammad Idham Fachrurrozi (17081010044)
