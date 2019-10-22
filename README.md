@@ -42,7 +42,7 @@ Setelah loading selesai maka user akan diarahkan ke tampilan utama dari aplikasi
  
 <p align="center"> 
     <img src="Khobar/img/headline_news_description_1.jpeg" width="265" height="500">
-</p?
+</p>
 
 Setelah user memutuskan untuk memilih dan menekan pada salah satu jenis berita, maka deskripsi dari berita yang dipilih tersebut akan ditampilkan pada halaman ini. User dapat menggulung halaman untuk melihat seluruh deskripsi berita.
 
