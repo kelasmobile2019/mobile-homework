@@ -15,6 +15,8 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
     - API Lv 21
 
 ### Cara Penggunaan
+Download terlebih dahulu aplikasinya <a href="https://github.com/kelasmobile2019/mobile-homework/tree/kelompok-6/File%20Build%20Apk">Disini</a>
+
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
 <p align="center">
     <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="390px" width="200px">
