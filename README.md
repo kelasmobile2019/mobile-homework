@@ -1,4 +1,4 @@
-# UPN-QuiZ
+# UPN-QuiZ [User Manual]
 
 ### Team Dev
 
@@ -6,7 +6,7 @@
 - Moh Fathur Rohman    (17081010048) <a href="https://github.com/rahmanboy987/">Profile Github</a>
 
 ### Deskripsi umum
-Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
+UPN QuiZ, Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
 
 Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 lainnya merupakan pertanyaan programming.
 
