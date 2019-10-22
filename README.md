@@ -2,8 +2,8 @@
 
 ### Team Dev
 
-- Kholilul Rachman N.M (17081010055) <a src="https://github.com/kholilboy/">Profile Github</a>
-- Moh Fathur Rohman    (17081010048) <a src="https://github.com/rahmanboy987/">Profile Github</a>
+- Kholilul Rachman N.M (17081010055) <a href="https://github.com/kholilboy/">Profile Github</a>
+- Moh Fathur Rohman    (17081010048) <a href="https://github.com/rahmanboy987/">Profile Github</a>
 
 ### Deskripsi umum
 Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
