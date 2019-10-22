@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangle12"
+    android:orientation="vertical"
+    tools:context=".TentangActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Team Dev"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/kotak_box_about"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.5"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.800"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5" />
+
+    <ImageView
+        android:id="@+id/kotak_box_about"
+        android:layout_width="270dp"
+        android:layout_height="180dp"
+        android:src="@drawable/kotak_ttg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.5"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.160"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5" />
+
+    <ImageView
+        android:id="@+id/kholil_img"
+        android:layout_width="121dp"
+        android:layout_height="106dp"
+        android:src="@drawable/colil_img"
+        app:layout_constraintBottom_toBottomOf="@id/kotak_box_about"
+        app:layout_constraintEnd_toEndOf="@id/kotak_box_about"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.5"
+        app:layout_constraintHorizontal_bias="0.083"
+        app:layout_constraintStart_toStartOf="@id/kotak_box_about"
+        app:layout_constraintTop_toTopOf="@id/kotak_box_about"
+        app:layout_constraintVertical_bias="0.503"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5" />
+
+    <ImageView
+        android:id="@+id/fathur_img"
+        android:layout_width="121dp"
+        android:layout_height="106dp"
+        android:src="@drawable/fathur_img"
+        app:layout_constraintBottom_toBottomOf="@id/kotak_box_about"
+        app:layout_constraintEnd_toEndOf="@id/kotak_box_about"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.5"
+        app:layout_constraintHorizontal_bias="0.91"
+        app:layout_constraintStart_toStartOf="@id/kotak_box_about"
+        app:layout_constraintTop_toTopOf="@id/kotak_box_about"
+        app:layout_constraintVertical_bias="0.503"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5" />
+
+    <ScrollView
+        android:layout_width="400dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent="0.5"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kotak_box_about"
+        app:layout_constraintVertical_bias="0.503"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent="0.5">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nama Aplikasi"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-light"
+                    android:text="UPN QuiZ"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="330dp"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/grey" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Min SDK"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-light"
+                    android:text="Android 5.0 Lolipop"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="330dp"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/grey" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Min API Level"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-light"
+                    android:text="API - 21"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="330dp"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/grey" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Versi Aplikasi"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-light"
+                    android:text="1.0"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="330dp"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/grey" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lisensi Open Source"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-light"
+                    android:text="https://github.com/kelasmobile2019/mobile-homework/tree/kelompok-6"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <View
+                    android:layout_width="330dp"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@color/grey" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

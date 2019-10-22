@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UPN QuiZ</string>
+    <string name="logo"></string>
+    <string name="kholil">
+        Kholilul Rachman N.M
+        17081010055
+        \nMahasiswa UPN "Veteran" Jatim
+    </string>
+    <string name="nama_fathur">Moh Fathur Rohman</string>
+    <string name="npm_fathur">17081010048</string>
+    <string name="site_fathur">www.gabutin.site || www.rahmanboy987.github.io</string>
+</resources>
