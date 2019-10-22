@@ -1,12 +1,18 @@
 # Tugas UTS Aplikasi Mobile
 Diatas merupakan Tugas dari Kelompok 2 bernama Ngamping. 
 
-# Sekilas Informasi Tentang Ngamping
-Ngamping merupakan sebuah aplikasi yang bertujuan untuk memberikan informasi tentang ground camping. Informasi yang diberikan berupa lokasi, harga tiket dan deskripsi singkat.
+## Anggota TIM 
+1. Mohammad Idham Fachrurrozi [Github Profile](https://github.com/idhamozi)
+2. Fajar Andhika Putra [Github Profile](https://github.com/FjDhika)
 
+## Sekilas Informasi Tentang Ngamping
+Ngamping merupakan sebuah aplikasi yang bertujuan untuk memberikan informasi tentang ground camping. Informasi yang diberikan berupa lokasi, harga tiket dan deskripsi singkat. Untuk sementara ini data ground camping hanya tersedia di daerah seputar Jawa Timur.
+
+## System Requirement
+Android OS minimal 5.0 Lolipop (API 21)
 
 # User Manual/Panduan Pengguna
-1. Install terlebih dahulu aplikasi dengan nama Ngamping_ver1.apk
+1. Install terlebih dahulu aplikasi dengan nama Ngamping_ver1.apk [Download Disini](https://github.com/idhamozi/Ngamping/raw/master/app/release/Ngamping_ver1.apk)
 2. Buka Aplikasi Ngamping dengan icon gunung yang bertulis Ngamping
 ![Image Home HP](https://github.com/idhamozi/Mobile_Apps/blob/master/ss/WhatsApp%20Image%202019-10-21%20at%2017.23.28.jpeg)
 3. Tunggu beberapa detik hingga splash screen sampai hilang
