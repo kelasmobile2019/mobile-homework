@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uts.kelompok2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logofix"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AboutVapeActivity"></activity>
+        <activity android:name=".LiquidActivity" />
+        <activity android:name=".CoilActivity" />
+        <activity android:name=".HadalyActivity" />
+        <activity android:name=".DrugaRDAActivity" />
+        <activity android:name=".DropActivity" />
+        <activity android:name=".DetailAtomizerArtha" />
+        <activity android:name=".AtomizerActivity" />
+        <activity android:name=".DetailDeviceAsmodus" />
+        <activity android:name=".DetailDeviceSX" />
+        <activity android:name=".DetailDeviceFoxy" />
+        <activity android:name=".DetailDevice" />
+        <activity android:name=".DeviceActivity" />
+        <activity android:name=".InformationActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
