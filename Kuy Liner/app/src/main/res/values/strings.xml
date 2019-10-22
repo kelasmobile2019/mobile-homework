@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
+    <string name="snack">Snack</string>
+    <string name="dummy_location">Jl Kertosono Gresik   Jl Malioboro Surabaya   Jl Kota Baru Magelang</string>
+    <string name="location">Location</string>
+</resources>
