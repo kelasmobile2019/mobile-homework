@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nandur</string>
+    <string name="Tanaman_Hias">tanaman_hias</string>
+    <string name="TanamanHias">tanaman hias</string>
+    <string name="TanamanBuah">Tanaman Buah</string>
+    <string name="bougenville">bougenville</string>
+    <string name="Bougenville">Bougenville</string>
+    <string name="Kastuba">Kastuba</string>
+    <string name="desc">TODO</string>
+    <string name="desc1">Kastuba merah</string>
+    <string name="MenuTanamanHias">Menu Tanaman Hias</string>
+    <string name="buttonbou">Button</string>
+    <string name="Harga1">Harga: Rp 15.000</string>
+    <string name="toko_bunga_darmo_jaya">Toko Bunga Darmo Jaya</string>
+    <string name="todo">TODO</string>
+</resources>
